@@ -1,0 +1,9 @@
+# Created by the notebooks while they run; never commit these
+var/
+*.cfg
+.databricks/
+my_project/
+08_concepts_bundle/
+05_pipeline_tasks/
+__pycache__/
+.ipynb_checkpoints/
